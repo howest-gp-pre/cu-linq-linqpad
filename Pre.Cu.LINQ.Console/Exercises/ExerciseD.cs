@@ -1,5 +1,4 @@
-﻿using Microsoft.Data.Analysis;
-using Pre.Cu.LINQ.Console.Exercises.Interfaces;
+﻿using Pre.Cu.LINQ.Console.Exercises.Interfaces;
 using Pre.Cu.LINQ.Console.Exercises.Models;
 using System;
 using System.Collections.Generic;
@@ -7,7 +6,6 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using static PandasNet.PandasApi;
 
 namespace Pre.Cu.LINQ.Console.Exercises
 {
